@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+header{
+    display:flex;
+    justify-content:center;
+    height:80px;
+    background-color:blue;
+    align-items:center;
+
+}
+header h1{
+    font-size:2rem;
+    color:white;
+    font-family:"Lato";
+}
